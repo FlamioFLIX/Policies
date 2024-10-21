@@ -139,7 +139,7 @@
       ],
       "DNSOverHTTPS": {
       "Enabled": true,
-      "ProviderURL": "https://internetsehat.bebasid.com/dns-query"
+      "ProviderURL": "https://family.adguard-dns.com/dns-query"
     }
     }
   }
