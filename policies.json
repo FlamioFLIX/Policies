@@ -136,7 +136,11 @@
         "https://www.censored.booru.org/",
         "https://www.Youtube.com/",
         "https://www.twitch.tv/"
-      ]
+      ],
+      "DNSOverHTTPS": {
+      "Enabled": true,
+      "ProviderURL": "https://internetsehat.bebasid.com/dns-query"
+    }
     }
   }
 }
